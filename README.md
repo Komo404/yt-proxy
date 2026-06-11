@@ -1,4 +1,4 @@
-# yt-embed
+# Youtube Proxy
 
 A minimal GitHub Pages proxy for embedding YouTube videos from contexts where `youtube-nocookie.com` blocks the referrer, such as browser extensions.
 Created this to use in my moz extension NamaStream
@@ -10,7 +10,7 @@ Browser extensions run under a `moz-extension://` or `chrome-extension://` origi
 ## Usage
 
 ```
-https://komo404.github.io/yt-embed/?v=VIDEO_ID
+https://komo404.github.io/yt-proxy/?v=VIDEO_ID
 ```
 
 ### Parameters
@@ -25,14 +25,14 @@ https://komo404.github.io/yt-embed/?v=VIDEO_ID
 ### Example
 
 ```
-https://komo404.github.io/yt-embed/?v=dQw4w9WgXcQ&autoplay=1&mute=1
+https://komo404.github.io/yt-proxy/?v=dQw4w9WgXcQ&autoplay=1&mute=1
 ```
 
 ## Setup
 
 1. Fork or clone this repo
 2. Go to Settings, then Pages and set the source to the `main` branch
-3. The page will be live at `https://YourAccount.github.io/yt-embed/`
+3. The page will be live at `https://YourAccount.github.io/yt-proxy/`
 
 ## Notes
 
